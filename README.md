@@ -196,7 +196,7 @@ timing data will be written to <C:\Users\user\programing\day6\fibonacci_timing_0
 ![image](https://user-images.githubusercontent.com/130226215/234343099-6c0a87ae-6618-4808-be78-73708a3846c1.png)
 
 
-##Logger method for geenerating logo plots and calculate GC frequency for all miRNAs for mouse, human and rat
+##Logger method for geenerating logo plots and calculate GC frequency for all miRNAs for mouse, human and rat in mature.fa
 code for:
 # ''' That is:
 #     -f "C:\Users\THIS-PC\AP\day4\data\mature.fa" -s hsa
